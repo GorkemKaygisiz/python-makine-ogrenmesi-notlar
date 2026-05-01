@@ -1,2 +1,0 @@
-# python-makine-öğrenmesi-notlar
-
